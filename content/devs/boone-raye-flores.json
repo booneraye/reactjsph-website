@@ -1,0 +1,33 @@
+{
+    "avatar": "https://i.ibb.co/YNDH5K8/avatar-2-1.jpg",
+    "name": "Boone Raye B. flores",
+    "title": "Web Developer",
+    "company": "Gate Distribution ent. Inc.,",
+    "blurb": "Hello everyone! I'm Boone, I am a career shifter and currently working as web developer and IT Admin support.",
+    "skills": [
+      "Javascript",
+      "React",
+      "PHP",
+      "MySQL",
+      "Adobe XD"
+    ],
+    "contacts": [
+      {
+        "type": "github",
+        "url": "https://github.com/booneraye"
+      },
+      {
+        "type": "linkedin",
+        "url": "https://www.linkedin.com/in/booneraye/"
+      },
+      {
+        "type": "email",
+        "url": "mailto:booneraye@gmail.com"
+      },
+      {
+        "type": "website",
+        "url": "www.booneraye.online/"
+      }
+    ]
+  }
+  
